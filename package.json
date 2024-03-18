@@ -1,7 +1,7 @@
 {
   "name": "autosub-trans",
   "version": "1.0.0",
-  "description": "使用autosub来自动批量生产字幕, 并使用腾讯翻译来翻译, 需要电脑上装有autosub",
+  "description": "使用autosub来批量生成字幕, 并使用腾讯翻译来生成双语字幕, 需要电脑上装有autosub",
   "main": "./src/index.mjs",
   "type": "module",
   "scripts": {
