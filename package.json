@@ -1,0 +1,18 @@
+{
+  "name": "autosub-trans",
+  "version": "1.0.0",
+  "description": "使用autosub来自动批量生产字幕, 并使用腾讯翻译来翻译, 需要电脑上装有autosub",
+  "main": "./src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tencentcloud-sdk-nodejs-tmt": "*",
+    "zx": "7.2.3",
+    "dotenv": "16.4.5"
+  }
+}
